@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topicsNameSize">18sp</dimen>
+    <dimen name="topicsCreatedSize">16sp</dimen>
+    <dimen name="topicsComPadding">5dp</dimen>
+</resources>
